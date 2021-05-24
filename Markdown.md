@@ -19,5 +19,6 @@ Se puede realizar:
 * Menciones @vigarome
 * Celdas
   A1|B1
+  --|--
   A2|B2
 * 
