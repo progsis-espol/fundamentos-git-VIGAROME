@@ -7,6 +7,7 @@ Se puede realizar:
 * Vincular [links](https://guides.github.com/features/mastering-markdown/)
 * Insertar ![imagen](https://github.com/progsis-espol/fundamentos-git-VIGAROME/blob/main/git%20%26%20github.png) **No me queda muy claro**
 * Disenios de parrafos
+  ~~ Tachados~~
   1. Enlistar
   * Vinietas
   - Guiones
@@ -15,3 +16,8 @@ Se puede realizar:
   for(c=1, c<5, c+=1){
     print (c)
   `
+* Menciones @vigarome
+* Celdas
+  A1|B1
+  A2|B2
+* 
