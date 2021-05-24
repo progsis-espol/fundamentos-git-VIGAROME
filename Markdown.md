@@ -4,8 +4,8 @@ Se puede realizar:
 * Encabezados
 * **Negrita**
 * *Cursiva
-* Vincular [links] (https://guides.github.com/features/mastering-markdown/)
-* Insertar ![imagen] (https://github.com/progsis-espol/fundamentos-git-VIGAROME/blob/main/git%20%26%20github.png) **No me queda muy claro**
+* Vincular [links](https://guides.github.com/features/mastering-markdown/)
+* Insertar ![imagen](https://github.com/progsis-espol/fundamentos-git-VIGAROME/blob/main/git%20%26%20github.png) **No me queda muy claro**
 * Disenios de parrafos
   1. Enlistar
   * Vinietas
